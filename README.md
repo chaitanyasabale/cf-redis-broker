@@ -4,7 +4,7 @@ cf-redis-broker
 ## Integration Tests
 ### AWS Keys
 The backup integration tests send data to AWS S3, and need the following
-evironment variables set to be able to work:
+environment variables set to be able to work:
 
 * `AWS_ACCESS_KEY_ID`
 * `AWS_SECRET_ACCESS_KEY`
